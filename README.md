@@ -19,4 +19,37 @@ This course presentation on Corporate Finance Fundamentals by the Corporate Fina
 **Institutions** ("Buy Side")Roles in private equity or fund management that focus on investing capital to generate returns.Public Accounting: Focused on audit and advisory with a clear, structured career path.Corporate Roles: Internal finance positions within companies, managing the firm's own capital and strategy.
 
 
-the core of accounting revolves around tracking a company's financial health by recording every transaction through a structured process.1. The Core Accounting EquationThe entire accounting system is built on one fundamental balancing rule: Assets = Liabilities + Shareholders' Equity.Assets: Everything the company owns that has future value, like cash, inventory, or equipment.Liabilities: What the company owes to others, such as bank loans or payments due to suppliers.Equity: The remaining value for owners after all debts are covered; it grows through issuing stock or earning profit.2. The Three Primary Financial StatementsThese reports communicate a business's performance and viability to stakeholders.Balance Sheet: A "snapshot" showing what the company owns and owes at a specific point in time.Income Statement: Shows the results of operations—revenue minus expenses—over a specific period (like a month or year) to determine profit or loss.Cash Flow Statement: Tracks the actual movement of cash in and out of the business, categorized into Operating, Investing, and Financing activities.3. Key Recording PrinciplesDouble-Entry Bookkeeping: To ensure the accounting equation always stays in balance, every transaction is recorded in at least two places as a "Debit" and a "Credit".Accrual vs. Cash Basis: Accounting typically uses the matching principle, recording revenues when they are earned and expenses when they are incurred, rather than just when cash changes hands.Depreciation: This matches the cost of a long-term asset (like machinery) to the years it is actually used, rather than recording the entire expense only when it's bought.4. Adjusting EntriesAt the end of a reporting period, accountants make updates to ensure accuracy:Prepayments: Recording payments made in advance (like insurance) as assets until the service is actually used.Unearned Revenue: Treating cash received before a service is delivered as a liability until the work is finished.Accruals: Recording expenses that have happened but haven't been billed yet, such as utility usage.
+**The core of accounting** revolves around tracking a company's financial health by recording every transaction through a structured process.
+
+**1. The Core Accounting Equation:** The entire accounting system is built on one fundamental balancing rule: 
+ 
+                                                                          **Assets = Liabilities + Shareholders**
+
+**Equity.Assets:** Everything the company owns that has future value, like cash, inventory, or equipment.
+
+**Liabilities**: What the company owes to others, such as bank loans or payments due to suppliers.
+
+**Equity**: The remaining value for owners after all debts are covered; it grows through issuing stock or earning profit.
+
+**2. The Three Primary Financial Statements:** These reports communicate a business's performance and viability to stakeholders.
+
+**Balance Sheet:** A "snapshot" showing what the company owns and owes at a specific point in time.
+
+**Income Statement:** Shows the results of operations—revenue minus expenses—over a specific period (like a month or year) to determine profit or loss.
+
+**Cash Flow Statement:** Tracks the actual movement of cash in and out of the business, categorized into Operating, Investing, and Financing activities.
+
+**3. Key Recording Principles**
+**Double-Entry Bookkeeping:** To ensure the accounting equation always stays in balance, every transaction is recorded in at least two places as a "Debit" and a "Credit".
+
+**Accrual vs. Cash Basis:** Accounting typically uses the matching principle, recording revenues when they are earned and expenses when they are incurred, rather than just when cash changes hands.
+
+**Depreciation**: This matches the cost of a long-term asset (like machinery) to the years it is actually used, rather than recording the entire expense only when it's bought.
+
+**4. Adjusting Entries:** At the end of a reporting period, accountants make updates to ensure accuracy:
+
+**Prepayments**: Recording payments made in advance (like insurance) as assets until the service is actually used.
+
+**Unearned Revenue**: Treating cash received before a service is delivered as a liability until the work is finished.
+
+**Accruals**: Recording expenses that have happened but haven't been billed yet, such as utility usage.
