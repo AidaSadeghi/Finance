@@ -23,8 +23,8 @@ This course presentation on Corporate Finance Fundamentals by the Corporate Fina
 
 **1. The Core Accounting Equation:** The entire accounting system is built on one fundamental balancing rule: 
  
-                                                                          **Assets = Liabilities + Shareholders**
-
+                                                                      Assets = Liabilities + Shareholders
+                                                                         
 **Equity.Assets:** Everything the company owns that has future value, like cash, inventory, or equipment.
 
 **Liabilities**: What the company owes to others, such as bank loans or payments due to suppliers.
@@ -40,6 +40,7 @@ This course presentation on Corporate Finance Fundamentals by the Corporate Fina
 **Cash Flow Statement:** Tracks the actual movement of cash in and out of the business, categorized into Operating, Investing, and Financing activities.
 
 **3. Key Recording Principles**
+
 **Double-Entry Bookkeeping:** To ensure the accounting equation always stays in balance, every transaction is recorded in at least two places as a "Debit" and a "Credit".
 
 **Accrual vs. Cash Basis:** Accounting typically uses the matching principle, recording revenues when they are earned and expenses when they are incurred, rather than just when cash changes hands.
